@@ -1,3 +1,4 @@
+# This code demonstrates the use of variables in Python to store different types of data, such as strings, floats, and booleans. It assigns values to these variables and then prints them out to the console.
 print("Hello, World!")
 price = 19.99
 price = 29.99

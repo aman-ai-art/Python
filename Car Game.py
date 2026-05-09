@@ -1,3 +1,4 @@
+# This code implements a simple text-based car game where the user can start, stop, and quit the game using commands.
 while True:
        cmd2 = input('>').lower()
        if cmd2 == 'help':

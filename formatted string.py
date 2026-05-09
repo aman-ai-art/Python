@@ -1,3 +1,4 @@
+# This code demonstrates how to create formatted strings in Python using both string concatenation and f-strings. It constructs a full name from individual name components and creates personalized messages using the formatted strings.
 first = 'Aman'
 middle = 'Kumar'
 last = 'Singh'

@@ -1,3 +1,4 @@
+# This code demonstrates various arithmetic operations in Python, including addition, subtraction, multiplication, division, modulus, exponentiation, and floor division.
 num = 10
 print(num)
 num += 11

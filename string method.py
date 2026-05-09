@@ -1,3 +1,4 @@
+# This code demonstrates various string methods in Python. It performs operations such as calculating the length of a string, converting it to uppercase and lowercase, capitalizing it, replacing a substring, and checking for the presence of a substring. Additionally, it calculates the length of a number by converting it to a string.
 name = 'Aman Singh'
 number = 123456789
 print(len(name))
